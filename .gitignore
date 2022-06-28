@@ -1,0 +1,3 @@
+# Project exclude paths
+/MainModule/target/
+/Operation/target/
